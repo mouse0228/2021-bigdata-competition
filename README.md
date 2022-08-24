@@ -1,4 +1,4 @@
-# 2021bigdata-competittion
+# 2021-bigdata-competition
 >IMBD2021 全國智慧製造大數據分析競賽初賽<br>
 >以設備感測器資料預測加工的物理特性<br>
 >共13項特徵參數，98072筆數據<br>
